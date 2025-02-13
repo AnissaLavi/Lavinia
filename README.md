@@ -2,7 +2,7 @@
 - 🎓 Studenta la Informatica, pasionata de C++ și structuri de date.
 - 🖥️ Lucrez la proiecte open-source și îmi îmbunătățesc skill-urile în programare.
 - 🌱 Învăț C++, Python și algoritmi avansați.
-- 📫 Mă poți contacta pe [LinkedIn](https://linkedin.com/in/nume).
+- 📫 Mă poți contacta pe [LinkedIn](https://linkedin.com/in/Lavinia Ursescu).
 
 ## 📌 Skill-uri:
 - 🔹 C++, STL, Algoritmi și Structuri de Date
