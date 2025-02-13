@@ -8,3 +8,6 @@
 - 🔹 C++, STL, Algoritmi și Structuri de Date
 - 🔹 Git, GitHub, Linux
 - 🔹 HTML, CSS, JavaScript (baze)
+
+## 📈 Statistici GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lavinia&show_icons=true&theme=tokyonight)
